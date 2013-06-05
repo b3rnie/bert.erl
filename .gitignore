@@ -1,2 +1,5 @@
-ebin
-*.dump
+*.app
+*.beam
+.eunit
+doc
+/deps

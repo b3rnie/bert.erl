@@ -1,0 +1,8 @@
+%%-*- mode: erlang -*-
+{application, 'bert.erl',
+  [ {description, "bert.erl"}
+  , {vsn,          git}
+  , {modules,      []}
+  , {registered,   []}
+  , {applications, [kernel, stdlib]}
+]}.
